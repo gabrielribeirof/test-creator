@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="howder" src=".github/assets/dark-logo.svg" width="280px">
+  <img alt="howder" src=".github/assets/dark-logo.white-background.svg" width="280px">
 </p>
 
 <p align="center">
